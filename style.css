@@ -1,0 +1,72 @@
+/* Main container styling */
+.main {
+    padding: 1rem;
+}
+
+/* Card styling */
+.stMarkdown {
+    background-color: #ffffff;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+/* Header styling */
+h1 {
+    color: #2E86C1;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    color: #2E86C1;
+    margin: 0;
+    padding: 0;
+}
+
+/* Price styling */
+.price-increase {
+    color: #E74C3C;
+}
+
+.price-decrease {
+    color: #27AE60;
+}
+
+/* Alert price styling */
+.alert-price {
+    color: #E74C3C;
+    font-style: italic;
+}
+
+/* Button styling */
+.stButton button {
+    background-color: #2E86C1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+}
+
+.stButton button:hover {
+    background-color: #2874A6;
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+    background-color: #F8F9F9;
+    border-radius: 5px;
+}
+
+/* Input field styling */
+.stTextInput input {
+    border-radius: 5px;
+    border: 1px solid #BDC3C7;
+}
+
+/* Chart container styling */
+.plotly-chart-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
